@@ -1,0 +1,8 @@
+huggingface_hub>=0.30
+transformers>=4.50
+smolagents[toolkit]>=1.15
+gradio>=5.0
+pytz
+requests
+python-dotenv
+pytest
